@@ -33,7 +33,7 @@ print(f"""{Fore.RED}
 
 # Kullanıcıdan bilgileri al
 token = input(f'Token:\n > ')
-guild_s = input('Aktarılan Sunucu ID:\n > ')
+guild_s = input('Hedef Sunucu ID:\n > ')
 
 # Geçersiz karakterleri temizleme fonksiyonu
 def sanitize_name(name):
