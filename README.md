@@ -13,6 +13,11 @@ Herkese Selamlar bugün öyle kendi kafamın estiği şekilde Emoji klonlama yap
 > [!CAUTION]
 > Tamamen Lisanslı aksi taktirde başka bir platform ya da Video üzeri görülürse Yasal süreçler başlayacaktır
 
+> [!TIP]
+> Tokeni nasıl alırım Derseniz eğer ki
+> Şuradaki konuya ulaşarak kodu alabilirsiniz. Tarayıcı üzerinden kullanarak bu kodu Tokeninizi alabilirsiniz
+> [Tokeni al](https://github.com/onlycmd/discord-klonlama-araci)
+
 # Ekran görüntüsü
 
 ![Ss](https://cdn.discordapp.com/attachments/1327985578318368799/1334614660648927372/image.png?ex=679d2c43&is=679bdac3&hm=130500734011da2ed09bae76250681a720e420ff4659643d4436ea79ea24ec86&)
