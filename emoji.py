@@ -42,7 +42,7 @@ def sanitize_name(name):
 # Emojileri kaydetme fonksiyonu
 def download_emoji(emoji_id, emoji_name, guild_folder, is_animated):
     folder_type = "GIFs" if is_animated else "PNGs"
-    emoji_folder = f"{guild_folder}/Emojis/{folder_type}"
+    emoji_folder = f"{guild_folder}/{folder_type}"
     
     if not os.path.exists(emoji_folder):
         os.makedirs(emoji_folder)
