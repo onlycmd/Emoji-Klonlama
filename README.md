@@ -1,3 +1,5 @@
+# Daha fazlası için Star + Fork yapmayı unutmayın!
+
 # Emoji-Klonlama
 Herkese Selamlar bugün öyle kendi kafamın estiği şekilde Emoji klonlama yaptım. Server klonlama ile aynı mantıkta 
 
